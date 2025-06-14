@@ -76,6 +76,11 @@ a {
     background-color: #b58668;
 }
 
+.btn:hover {
+    background-color: #916549;
+    transition: 1s;
+}
+
 /* ---------------------banner---------------------- */
 
 .banner {
